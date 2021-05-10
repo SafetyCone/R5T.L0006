@@ -1,0 +1,4 @@
+R5T.L0006.Extensions - Extensions and custom functionality for the AWSSDK.SecurityToken Security Token Service (STS) library.
+
+Goals
+
